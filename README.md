@@ -1,4 +1,4 @@
-# -Mobile-Robot-Omni-wheel-follows-the-object
+# Mobile-Robot-Omni-wheel-follows-the-object
 robot được điều khiển bằng máy tính nhúng raspberry pi
 
 ![image](https://user-images.githubusercontent.com/105936733/234332773-c0d812e8-c461-4687-b6ec-75f441c65a27.png)
