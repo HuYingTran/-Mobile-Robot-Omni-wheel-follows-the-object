@@ -1,9 +1,9 @@
 # Mobile-Robot-Omni-wheel-follows-the-object
-robot được điều khiển bằng máy tính nhúng raspberry pi
+Control robot by Arduino + raspberry pi
 
 ![image](https://user-images.githubusercontent.com/105936733/234332773-c0d812e8-c461-4687-b6ec-75f441c65a27.png)
 
-Chuyển động của robot sử dụng bánh đa hướng
+Mobile robot Omni wheel
 
 ![image](https://user-images.githubusercontent.com/105936733/234333205-c3f1a2bf-8c4e-42bc-9d7d-ea086a1a2416.png)
 
